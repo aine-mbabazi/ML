@@ -120,6 +120,6 @@ class MinHeap:
 min_heap = MinHeap()
 min_heap.insert(108)
 min_heap.insert(120)
-min_heap.insert(5)
+min_heap.insert(3)
 print(min_heap.extract_min()) 
 print(min_heap.peek())         
