@@ -1,7 +1,7 @@
-##Heaps Branch
+## Heaps Branch
 The heaps branch contains questions interview questions asked on the heaps data structure and their solutions.
 
-#Interview questions
+# Interview questions
 
 * Given an array containing N integers, our task is to:Create min-heap with 1 based indexing.Remove the element present at index k from the heap created in the first step using Decrease key method.
 * Given a string str, find first K non-repeating characters in lexicographical order, if all the characters are repeating then print "Not Exist" without quotes.
